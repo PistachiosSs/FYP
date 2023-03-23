@@ -1,0 +1,11 @@
+.footer .error {
+    font-weight: bold;
+    font-size: 0.875;
+    color: red !important;
+
+}
+
+.button:disabled {
+    background-color: gray !important;
+
+}
